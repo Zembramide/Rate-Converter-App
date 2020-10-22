@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rate Converter</string>
+    <string name="confirm">Confirm</string>
+    <string name="to_kg_l">₹ to kg/l</string>
+    <string name="kg_l_to">kg/l to ₹</string>
+    <string name="get_answer">Get Answer</string>
+</resources>
